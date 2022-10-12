@@ -40,7 +40,7 @@
       "symbol": "AAVE",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://etherscan.io/token/images/aave_32.png"
+      "logoURI": "https://raw.githubusercontent.com/monzanifabio/cryptoicons/master/SVG-icons/aave.svg"
     },
     {
       "name": "Binance Token",
