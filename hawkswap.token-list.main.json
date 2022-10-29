@@ -115,9 +115,9 @@
       "logoURI": "https://polygonscan.com/token/images/frax_32.png"
     },
     {
-      "name": "QuickSwap(NEW)",
+      "name": "QuickSwap",
       "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-      "symbol": "QUICK(NEW)",
+      "symbol": "QUICK",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
@@ -139,7 +139,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
     },
     {
-      "name": "CRV (PoS)",
+      "name": "CRV POS",
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
       "symbol": "CRV",
       "decimals": 18,
@@ -147,7 +147,7 @@
       "logoURI": "https://wallet-asset.matic.network/img/tokens/crv.svg"
     },
     {
-      "name": "SushiToken (PoS)",
+      "name": "SushiToken POS",
       "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
       "symbol": "SUSHI",
       "decimals": 18,
