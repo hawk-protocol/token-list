@@ -43,6 +43,14 @@
       "logoURI": "https://raw.githubusercontent.com/monzanifabio/cryptoicons/master/SVG-icons/aave.svg"
     },
     {
+      "name": "HawkSwap Token",
+      "symbol": "HAWK",
+      "address": "0x1c6Ef8c49F869D1b01a93c157409057E1B3D43c3",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hawk-protocol/token-list/main/assets/asset_HAWK.svg"
+    },
+    {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
       "symbol": "BNB",
