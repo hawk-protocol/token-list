@@ -123,14 +123,6 @@
       "logoURI": "https://polygonscan.com/token/images/frax_32.png"
     },
     {
-      "name": "QuickSwap",
-      "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-      "symbol": "QUICK",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
-    },
-    {
       "name": "Telcoin",
       "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
       "symbol": "TEL",
